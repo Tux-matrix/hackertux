@@ -1,3 +1,5 @@
 
 git add 
 Git commit
+Git push
+
